@@ -1,0 +1,1 @@
+This is my CSharp Final Exam Project: School Manager with XAMPP Database Integration
